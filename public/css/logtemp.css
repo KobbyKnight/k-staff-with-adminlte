@@ -1,0 +1,22 @@
+  
+  body {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .container{
+    margin-top: 5%;
+  }
+  .transparency{
+    opacity: 0.95;
+  }
+
+  .panel-default {
+    margin-top: 0px;
+  }
+
+  .form-group.last {
+    margin-bottom: 0px;
+  }
